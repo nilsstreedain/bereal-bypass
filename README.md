@@ -1,2 +1,2 @@
 # bereal-bypass
-Removed due to cease & desist, currently evaluating future options.
+This project has been removed due to a cease & desist, currently evaluating options.
